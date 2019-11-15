@@ -1,0 +1,50 @@
+{
+	"cn-hk.zycsj.cc" : {
+		"totalUploadBytes" : 11000320,
+		"totalDownloadBytes" : 171332554
+	},
+	"47.107.179.149" : {
+		"totalUploadBytes" : 196663145,
+		"totalDownloadBytes" : 8381586618
+	},
+	"jp-4.zycsj.cc" : {
+		"totalUploadBytes" : 16490,
+		"totalDownloadBytes" : 13472
+	},
+	"jp-1.zycsj.cc" : {
+		"totalUploadBytes" : 136559,
+		"totalDownloadBytes" : 1978738
+	},
+	"ru-1.zycsj.cc" : {
+		"totalUploadBytes" : 50348391,
+		"totalDownloadBytes" : 259691534
+	},
+	"us-1.zycsj.cc" : {
+		"totalUploadBytes" : 36362,
+		"totalDownloadBytes" : 22650
+	},
+	"hk-1.zycsj.cc" : {
+		"totalUploadBytes" : 2884269,
+		"totalDownloadBytes" : 27946646
+	},
+	"hk-6.zycsj.cc" : {
+		"totalUploadBytes" : 1308310134,
+		"totalDownloadBytes" : 93452426
+	},
+	"cn-1.zycsj.cc" : {
+		"totalUploadBytes" : 100268817,
+		"totalDownloadBytes" : 1794881
+	},
+	"tw-1.zycsj.cc" : {
+		"totalUploadBytes" : 1907258,
+		"totalDownloadBytes" : 1331951
+	},
+	"hk-8.zycsj.cc" : {
+		"totalUploadBytes" : 523816002,
+		"totalDownloadBytes" : 660686702
+	},
+	"hk-4.zycsj.cc" : {
+		"totalUploadBytes" : 4756261,
+		"totalDownloadBytes" : 82588
+	}
+}
